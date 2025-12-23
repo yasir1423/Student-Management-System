@@ -1,0 +1,63 @@
+[
+    {
+        "roll": "BSEF25A503",
+        "name": "Muhammad Yasir",
+        "marks": {
+            "ICT": 92,
+            "DLD": 95
+        },
+        "grade": "A"
+    },
+    {
+        "roll": "BSEF25A501",
+        "name": "M. Fahad Aziz",
+        "marks": {
+            "ICT": 80,
+            "DLD": 90
+        },
+        "grade": "B"
+    },
+    {
+        "roll": "BSEF25A518",
+        "name": "Muhammad Dildar",
+        "marks": {
+            "ICT": 81,
+            "DLD": 81
+        },
+        "grade": "B"
+    },
+    {
+        "roll": "BSEF25A520",
+        "name": "Muhammad Furqan",
+        "marks": {
+            "ICT": 85,
+            "DLD": 90
+        },
+        "grade": "B"
+    },
+    {
+        "roll": "BSEF25A555",
+        "name": "Zain Khan",
+        "marks": {
+            "ICT": 45
+        },
+        "grade": "F"
+    },
+    {
+        "roll": "BSEF25A502",
+        "name": "Muhammad Haseeb",
+        "marks": {
+            "ICT": 79
+        },
+        "grade": "C"
+    },
+    {
+        "roll": "BSEF25A512",
+        "name": "Husnain Haider",
+        "marks": {
+            "ICT": 78,
+            "DLD": 85
+        },
+        "grade": "B"
+    }
+]
